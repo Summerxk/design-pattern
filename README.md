@@ -1,2 +1,2 @@
 # design_pattern
-学习设计模式
+How to use design patterns
